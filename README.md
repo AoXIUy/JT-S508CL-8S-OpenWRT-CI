@@ -1,6 +1,6 @@
 # JT-S508CL-8S OpenWrt 自动编译项目
 
-本项目用于自动化编译适用于 **JT-S508CL-8S** (基于 Realtek RTL930x方案) 交换机/路由器的 OpenWrt 固件。基于 GitHub Actions 实现云端自动编译，源码采用高度定制的 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)。
+本项目用于自动化编译适用于 **JT-S508CL-8S** (基于 Realtek RTL930x方案) 交换机/路由器的 OpenWrt 固件。项目核心编译脚本与工作流框架 Fork/修改自 [VIKINGYFY](https://github.com/VIKINGYFY)，基于 GitHub Actions 实现云端自动编译，源码采用高度定制的 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)。
 
 ## 🌟 项目简介
 
@@ -16,7 +16,7 @@
 - **默认用户名**: `root`
 - **默认密码**: 无 (空)
 - **默认主题**: `luci-theme-argon`
-- 
+
 ## 💽 烧录教程 (刷机指南)
 
 关于设备的详细烧录与刷机步骤（包含 Shell 访问、供电说明及固件刷写等），请参考 OpenWrt 官方硬件维基中的 Xikestor SKS8300-8x 页面（JT-S508CL-8S 与该方案通用）：
@@ -25,13 +25,15 @@
 
 ## 🚀 编译指南 (如何使用)
 
-1.  **Fork 本仓库** 到你的个人 GitHub 账号下。
-2.  进入仓库的 **Actions** 页面，点击 `I understand my workflows, go ahead and enable them` 以启用工作流。
-3.  在左侧菜单中选择 `QCA-ALL` 任务。
-4.  点击页面右侧的 `Run workflow` 开始云端编译。
-5.  编译结束后，进入该次任务的详情页，在 **Artifacts** 中下载打包好的固件，或直接在项目的 **Releases** 页面获取。
+1. **Fork 本仓库** 到你的个人 GitHub 账号下。
+2. 进入仓库的 **Actions** 页面，点击 `I understand my workflows, go ahead and enable them` 以启用工作流。
+3. 在左侧菜单中选择 `QCA-ALL` 任务。
+4. 点击页面右侧的 `Run workflow` 开始云端编译。
+5. 编译结束后，进入该次任务的详情页，在 **Artifacts** 中下载打包好的固件，或直接在项目的 **Releases** 页面获取。
 
-## 📄 许可证
+## 📄 许可证与鸣谢
 
-本项目采用 [MIT License](LICENSE) 许可协议。
+- **技术鸣谢**: 本项目的自动化编译脚本、常见插件集成逻辑及工作流框架源自 [VIKINGYFY](https://github.com/VIKINGYFY) 的开源分享，特此鸣谢。
+- **许可证**: 本项目采用 [MIT License](LICENSE) 许可协议。
+
 Copyright (c) 2026 Hu Jun.
