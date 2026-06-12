@@ -1,6 +1,6 @@
 # JT-S508CL-8S OpenWrt 自动编译项目
 
-本项目用于自动化编译适用于 **JT-S508CL-8S** (基于 Realtek RTL930x / SKS8300-8x 方案) 交换机/路由器的 OpenWrt 固件。基于 GitHub Actions 实现云端自动编译，源码采用高度定制的 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)。
+本项目用于自动化编译适用于 **JT-S508CL-8S** (基于 Realtek RTL930x方案) 交换机/路由器的 OpenWrt 固件。基于 GitHub Actions 实现云端自动编译，源码采用高度定制的 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt)。
 
 ## 🌟 项目简介
 
