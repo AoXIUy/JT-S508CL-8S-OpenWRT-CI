@@ -1,0 +1,7 @@
+#设备平台
+CONFIG_TARGET_realtek=y
+CONFIG_TARGET_realtek_rtl930x=y
+#设备列表
+CONFIG_TARGET_realtek_rtl930x_DEVICE_xikestor_sks8300-8x=y
+CONFIG_TARGET_BOARD="realtek"
+CONFIG_TARGET_SUBTARGET="rtl930x"
