@@ -8,7 +8,7 @@
 
 ### 💻 支持的硬件平台
 - **目标平台**: Realtek (`rtl930x`)
-- **适配设备**: JT-S508CL-8S / Xikestor SKS8300-8x
+- **适配设备**: JT-FG6700-8TFM /ONT-S508CL-8S/ Xikestor SKS8300-8x
 
 ## ⚙️ 固件默认配置
 
