@@ -49,7 +49,7 @@
 
 1. **Fork 本仓库** 到你的个人 GitHub 账号下。
 2. 进入仓库的 **Actions** 页面，点击 `I understand my workflows, go ahead and enable them` 以启用工作流。
-3. 在左侧菜单中选择 `QCA-ALL` 任务。
+3. 在左侧菜单中选择 `RTL` 任务。
 4. 点击页面右侧的 `Run workflow` 开始云端编译。
 5. 编译结束后，进入该次任务的详情页，在 **Artifacts** 中下载打包好的固件，或直接在项目的 **Releases** 页面获取。
 
