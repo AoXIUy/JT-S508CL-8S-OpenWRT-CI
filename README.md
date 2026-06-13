@@ -1,4 +1,4 @@
-# JT-S508CL-8S OpenWrt Auto-Build Project
+# ONTI ONT-S508CL-8S OpenWrt Auto-Build Project
 
 [English](README.md) | [简体中文](README_CN.md)
 
@@ -8,7 +8,7 @@ This project is designed to automatically compile OpenWrt firmware for the **JT-
 
 ## 📷 Product Showcase
 
-We showcase the JT-S508CL-8S switch here:
+We showcase the ONTI ONT-S508CL-8S  switch here:
 
 | Front View | Board Side View | Board Top-down View |
 |:---:|:---:|:---:|
@@ -18,7 +18,7 @@ We showcase the JT-S508CL-8S switch here:
 
 ## 🛒 Where to Buy
 
-You can purchase the JT-S508CL-8S switch through the following links:
+You can purchase the ONTI ONT-S508CL-8S  switch through the following links:
 - **AliExpress (International)**: [Buy on AliExpress](https://www.aliexpress.com/item/1005008497821015.html)
 - **Tmall / Taobao (China)**: [Buy on Tmall (天猫购买链接)](https://detail.tmall.com/item.htm?id=758911123734&skuId=5230615100877)
 
