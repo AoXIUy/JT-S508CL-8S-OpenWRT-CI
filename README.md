@@ -49,7 +49,7 @@ For detailed flashing steps (including Shell access, power supply description, a
 
 1. **Fork this repository** to your personal GitHub account.
 2. Go to the **Actions** page of your forked repository, and click `I understand my workflows, go ahead and enable them` to enable the workflows.
-3. Select the `QCA-ALL` task in the left menu.
+3. Select the `RTL` task in the left menu.
 4. Click `Run workflow` on the right side of the page to start compiling in the cloud.
 5. Once the compilation is complete, go to the task details page and download the packed firmware under **Artifacts**, or retrieve it directly from the project's **Releases** page.
 
