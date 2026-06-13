@@ -1,4 +1,4 @@
-# JT-S508CL-8S OpenWrt 自动编译项目
+<img width="1385" height="765" alt="image" src="https://github.com/user-attachments/assets/ae4cc0eb-dcd4-42fe-a55a-133ee44612f3" /># JT-S508CL-8S OpenWrt 自动编译项目
 
 [English](README.md) | [简体中文](README_CN.md)
 
@@ -18,7 +18,7 @@
 
 ## 🛒 购买渠道
 
-您可以通过以下链接购买 JT-S508CL-8S 交换机：
+您可以通过以下链接购买 ONT-S508CL-8S 交换机：
 - **速卖通 (AliExpress - 国际)**: [点击在速卖通购买](https://www.aliexpress.com/item/1005008497821015.html)
 - **天猫 / 淘宝 (中国)**: [点击在天猫购买](https://detail.tmall.com/item.htm?id=758911123734&skuId=5230615100877)
 
